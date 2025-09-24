@@ -1,4 +1,4 @@
-# Advent of Code - Historian Hysteria Solution
+:star: # Advent of Code - Historian Hysteria Solution
 
 ## Exploration Process
 Started with a DataFrame approach to load and explore two lists from `input.txt`. Used pandas for data loading and initial analysis, including visualizing the data structure and understanding the problem requirements.
