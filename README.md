@@ -8,6 +8,6 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 These are my solutions for some of the problems of the 2024 edition of Advent of Code.
 
-Day 1 part 1 solution achieves the correct result (2344935).
-Day 1 part 2 solution achieves the correct result (27647262).
-day 3 part 1 solution achieves the correct result (163931492).
+- Day 1 part 1 solution achieves the correct result (2344935).
+- Day 1 part 2 solution achieves the correct result (27647262).
+- day 3 part 1 solution achieves the correct result (163931492).
